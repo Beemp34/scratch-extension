@@ -16,7 +16,7 @@ class MyExtension {
 
       // `name` is what the user sees in the toolbox
       // It can be changed without breaking projects.
-      name: 'Cool Extension',
+      name: 'JUST A BAd IDEA',
 
       blocks: [
         {
